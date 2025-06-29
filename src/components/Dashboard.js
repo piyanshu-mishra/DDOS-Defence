@@ -139,7 +139,7 @@ const Dashboard = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
-              <h1 className="text-2xl font-bold text-green-400">DDoS Defense</h1>
+              <h1 className="text-2xl font-bold text-green-400">DDoS Defence</h1>
               <div className="ml-10 flex items-center space-x-4">
                 {["Dashboard", "Analysis", "Settings"].map((item) => (
                   <a
