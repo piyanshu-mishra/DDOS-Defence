@@ -44,7 +44,7 @@ const Settings = () => {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <h1 className="text-2xl font-bold text-green-400">
-                  DDoS Defense
+                  DDoS Defence
                 </h1>
               </div>
               <div className="ml-10 flex items-center space-x-4">
