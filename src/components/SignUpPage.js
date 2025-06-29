@@ -13,7 +13,7 @@ const Signup = () => {
   return (
     <div className="min-h-screen bg-black text-green-400 font-poppins flex items-center justify-center">
       <div className="max-w-md w-full bg-gray-900 p-8 rounded-lg shadow-lg">
-        <h1 className="text-3xl font-bold mb-6 text-center text-green-400">DDoS Defense</h1>
+        <h1 className="text-3xl font-bold mb-6 text-center text-green-400">DDoS Defence</h1>
         <h2 className="text-2xl font-bold mb-6 text-center">Sign Up</h2>
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
